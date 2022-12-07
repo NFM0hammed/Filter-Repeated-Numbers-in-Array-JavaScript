@@ -10,3 +10,5 @@ for(let i = 0; i < myNums.length; i++) {
 }
 
 console.log(myNums);
+
+// Output is: [7, 5, 3, 1, 2, 10, 20]
