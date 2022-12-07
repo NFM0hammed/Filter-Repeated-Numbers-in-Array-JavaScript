@@ -34,3 +34,5 @@ function filterRepeatElementFromArray() {
 filterRepeatElementFromArray();
 
 console.log(myFilterNums);
+
+// Output is: [1, 2, 3, 4, 5, 6, 7, 8]
